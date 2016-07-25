@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleColorPicker</string>
+    <string name="dialog_title_color_picker">Escolha uma cor</string>
+</resources>
